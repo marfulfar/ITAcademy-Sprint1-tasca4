@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-01T12:27:20" hostname="MARFUL" time="0.024">
+  <properties/>
+  <testcase name="8th month is august" classname="MainTest" time="0.018"/>
+  <testcase name="ArrayList is not null" classname="MainTest" time="0.001"/>
+  <testcase name="count 12 months" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

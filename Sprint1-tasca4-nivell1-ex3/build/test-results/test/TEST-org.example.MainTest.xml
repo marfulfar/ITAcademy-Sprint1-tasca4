@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-01T12:04:42" hostname="MARFUL" time="0.028">
+  <properties/>
+  <testcase name="triggerError()" classname="org.example.MainTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
